@@ -27,6 +27,15 @@
 
 </details>
 
+<details>
+<summary>APK SHA-256 sağlaması</summary>
+
+```text
+8A8E28F9F2E71D9AB16B107CACD90FB717EE42E20B95E89E6DBC22B6650E3B66
+```
+
+</details>
+
 **Kurulum**
 
 1. APK'yı indir.
