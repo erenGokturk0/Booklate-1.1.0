@@ -1,0 +1,28 @@
+package com.erengokturk.booklate.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+val Ink = Color(0xFF1E2732)
+val InkMuted = Color(0xFF59636E)
+val Paper = Color(0xFFFAF7F2)
+val PaperDeep = Color(0xFFF2ECE2)
+val Terracotta = Color(0xFFC2634A)
+val TerracottaDark = Color(0xFF9E4A36)
+val TerracottaSoft = Color(0xFFF5DED4)
+val Sage = Color(0xFF6F8F76)
+val SageSoft = Color(0xFFDDE8DE)
+val Gold = Color(0xFFD2A24C)
+val GoldSoft = Color(0xFFF6E9C9)
+val Rose = Color(0xFFB85364)
+val Night = Color(0xFF12100E)
+val NightSurface = Color(0xFF1C1916)
+val NightSurfaceHigh = Color(0xFF27221D)
+val NightInk = Color(0xFFF1E9DD)
+val NightMuted = Color(0xFFB9AFA2)
+val NightTerracotta = Color(0xFFE8A088)
+val NightTerracottaSoft = Color(0xFF4A2A22)
+val NightSage = Color(0xFFA5C2A9)
+val NightGold = Color(0xFFE8C77E)
+val Highlight = Color(0x66F2C14E)
+val HighlightActive = Color(0x99E8A088)
+val HighlightSelection = Color(0x553B82F6)
